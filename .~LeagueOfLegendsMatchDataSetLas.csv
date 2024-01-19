@@ -1,0 +1,101 @@
+﻿Win,Duration(Min),KDA,Role,Champ,EarnedGold,EarnedGold Per Minute,Total Minions Killed,Vision Score,Vision Score Per Minute,Team Baron Kills,Team Dragon Kills,Total Pings ,Damage Per Minute,Attack Range Of Champion,Adaptive Type,Class Of Champion,Diffuculty Rating
+0,34,1.23,Carry,Varus,14883,,226,11,0.33887251,0,3,33,728,575,Phsical,Marksman,2
+1,46,1.6,Carry,Karthus,22895,,200,23,0.5,3,3,30,1952,875,Magic,Mage,2
+1,13,5,Support,Kindred,10695,,44,0,0,0,0,3,1243,500,Phsical,Marksman,3
+0,27,0.4,Carry,Lucian,8976,323,186,12,0.45,0,0,28,395,500,Phsical,Marksman,2
+0,27,1.16,Carry,Yone,12064,446,227,11,0.41,0,0,34,490,175,Phsical,Fighter-Assasin,3
+1,30,5.4,Top,Leblanc,16708,556,176,14,0.49,1,4,63,1278,525,Magic,Assasin-Mage,2
+1,44,4,Top,Yone,24599,555,345,31,0.7,1,4,115,1228,175,Phsical,Fighter-Assasin,3
+1,28,3,Top,Yone,13221,472,202,12,0.44,1,4,48,929,175,Phsical,Fighter-Assasin,3
+0,30,0.57,Top,Yone,11381,376,220,17,0.57,1,2,34,495,175,Phsical,Fighter-Assasin,3
+0,30,1.1,Top,Yone,12830,428,188,17,0.58,0,0,30,810,175,Phsical,Fighter-Assasin,3
+1,43,2.5,Top,Yone,20690,483,283,25,58,1,4,58,1396,175,Phsical,Fighter-Assasin,3
+0,34,1.5,Top,Shaco,11996,351,134,25,0.75,0,0,39,956,125,Can be both,Assasin,2
+1,37,2.12,Top,Yone,18089,482,301,20,0.55,2,4,55,948,175,Phsical,Fighter-Assasin,3
+0,27,1,Top,Sion,8365,308,133,11,0.42,0,2,30,391,175,Phsical,Tank-Fighter,1
+1,37,1.25,Top,Shaco,13087,335,160,20,0.55,0,5,31,721,125,Can be both,Assasin,2
+1,47,1.66,Top,Shaco,14212,305,174,32,0.68,3,3,31,766,125,Can be both,Assasin,2
+0,32,1.75,Top,Shaco,10538,334,136,15,0.48,0,1,5,1026,125,Can be both,Assasin,2
+0,36,2.33,Top,Shaco,9421,260,101,18,0.45,1,2,25,595,125,Can be both,Assasin,2
+0,28,3,Top,Shaco,10949,397,110,19,0.79,1,2,21,917,125,Can be both,Assasin,2
+1,31,2.42,Top,Shaco,12814,417,183,19,0.62,0,3,21,884,125,Can be both,Assasin,2
+0,33,1.25,Top,Shaco,11443,341,193,21,0.65,0,2,17,688,125,Can be both,Assasin,2
+0,33,2.12,Top,Shaco,13675,417,215,17,0.52,1,1,38,633,175,Phsical,Tank-Fighter,1
+1,27,1.6,Top,Shaco,9675,355,135,19,0.72,1,2,12,846,125,Can be both,Assasin,2
+0,21,0.7,Top,Singed,9004,428,143,12,0.59,0,1,15,714,125,Magic,Fighter-Tank,2
+0,30,1.57,Carry,Varus,13352,441,221,16,0.56,0,0,14,645,575,Phsical,Marksman,2
+1,37,2.71,Jungle,Belveth,17429,476,69,30,0.84,1,3,78,460,175,Phsical,Fighter,2
+0,22,1.25,Carry,Kaisa,8655,386,149,13,0.59,0,0,19,463,525,Can be both,Marksman,2
+0,19,6,Top,Shaco,4757,254,54,7,0.39,0,1,6,340,125,Can be both,Assasin,2
+0,16,7,Jungle,Shaco,6772,434,95,10,0.65,0,2,12,273,125,Can be both,Assasin,2
+1,34,16,Jungle,Belveth,15839,471,194,40,1.2,1,3,68,577,175,Phsical,Fighter,2
+1,34,3.75,Jungle,Belveth,16103,469,237,28,0.842,2,3,107,864,175,Phsical,Fighter,2
+0,23,1.16,Jungle,Lillia,7029,306,92,16,0.73,0,0,61,361,325,Magic,Fighter-Mage,3
+1,26,3.5,Jungle,Lillia,9544,365,127,27,1.06,1,1,37,370,325,Magic,Fighter-Mage,3
+0,26,0.55,Top,Sion,9957,380,177,8,0.33,0,0,12,437,175,Phsical,Tank-Fighter,1
+1,40,8,Jungle,Lillia,18083,454,193,25,0.63,1,3,83,1263,325,Magic,Fighter-Mage,3
+1,29,1.33,Jungle,Belveth,11607,405,175,45,1.57,0,3,58,371,175,Phsical,Fighter,2
+0,24,1.5,Jungle,Belveth,11308,468,114,17,0.73,0,1,29,463,175,Phsical,Fighter,2
+1,26,5.66,Jungle,Belveth,14074,544,154,28,1.09,1,1,34,602,175,Phsical,Fighter,2
+1,25,2.75,Jungle,Belveth,11799,464,153,30,1.21,1,2,51,244,175,Phsical,Fighter,2
+1,31,5.33,Jungle,Belveth,12652,408,150,21,0.69,0,2,57,627,175,Phsical,Fighter,2
+0,19,20,Jungle,Belveth,4025,207,47,4,0.21,0,0,6,36,175,Phsical,Fighter,2
+0,38,3.5,Jungle,Belveth,16495,4437,203,38,1,1,2,49,490,175,Phsical,Fighter,2
+0,39,1.55,Middle,Xerath,14081,364,235,19,0.49,0,2,40,901,525,Magic,Mage,2
+1,25,6,Middle,Sylas,10267,405,115,15,0.61,1,3,55,895,175,Magic,Mage-Assasin,3
+1,35,1.16,Middle,LeBlanc,13777,390,191,25,0.71,1,3,64,881,525,Magic,Mage-Assasin,2
+0,29,1,Middle,Cassiopeia,9946,339,177,15,0.54,0,1,39,376,550,Magic,Mage,3
+1,34,1.6,Middle,Cassiopeia,13678,404,239,18,0.55,1,4,73,435,550,Magic,Mage,3
+0,28,1.25,Support,Heimerdinger,8838,310,42,59,2.09,0,0,24,639,550,Magic,Mage-Support,2
+1,29,16,Middle,Cassiopeia,12869,448,226,20,0.7,1,3,86,479,550,Magic,Mage,3
+1,26,1.33,Middle,Cassiopeia,10526,404,186,16,0.64,1,4,64,632,550,Magic,Mage,3
+1,31,1.46,Middle,Jayce,13193,418,166,28,0.9,2,3,40,932,125,Phsical,Fighter-Marksman,2
+0,29,1.375,Middle,Ekko,12911,436,183,9,0.33,0,1,40,696,125,Magic,Assasin-Fighter,3
+0,26,1.857,Middle,Jayce,10115,411,168,20,0.82,0,0,33,908,125,Phsical,Fighter-Marksman,2
+0,25,2.66,Middle,Jayce,11462,486,154,7,0.32,0,0,27,890,125,Phsical,Fighter-Marksman,2
+1,34,3,Middle,Jayce,15901,449,206,43,1.24,1,4,44,896,125,Phsical,Fighter-Marksman,2
+1,24,8,Middle,Jayce,90101,379,165,15,0.66,1,3,63,469,125,Phsical,Fighter-Marksman,2
+1,16,8,Middle,Jayce,8279,517,145,11,0.71,0,2,32,759,125,Phsical,Fighter-Marksman,2
+1,36,2.18,Middle,Jayce,17796,466,268,22,0.57,2,3,61,1051,125,Phsical,Fighter-Marksman,2
+0,29,2.83,Jungle,Sylas,12672,4260,120,25,0.86,0,2,62,843,175,Magic,Mage-Assasin,3
+1,40,2.81,Carry,Kaisa,18970,461,236,24,0.58,1,3,38,10062,525,Phsical,Marksman,2
+0,15,1,Jungle,Sylas,5280,383,92,16,1.06,0,0,16,188,175,Magic,Mage-Assasin,3
+0,36,5.33,Jungle,Sylas,19115,506,156,24,0.64,1,5,86,1129,175,Magic,Mage-Assasin,3
+1,23,19,Middle,Sylas,10843,486,122,7,0.35,0,2,39,1039,175,Magic,Mage-Assasin,3
+0,24,0.83,Jungle,Nidalee,7887,337,92,22,0.94,0,0,11,229,525,Magic,Mage-Assasin,2
+1,18,7.5,Carry,Kaisa,10605,578,119,12,0.7,0,1,10,689,525,Phsical,Marksman,2
+0,32,3,Jungle,Nidalee,13593,418,152,25,0.79,0,3,25,1064,525,Magic,Mage-Assasin,2
+1,40,5.57,Jungle,Jarvan,18860,461,156,39,0.97,2,5,110,1022,175,Phsical,Tank-Fighter,1
+0,32,2,Jungle,Viego,11983,369,120,32,1.02,0,1,79,629,200,Phsical,Assasin-Fighter,3
+1,19,8,Middle,Sylas,7000,377,116,9,0.57,0,2,20,464,175,Magic,Mage-Assasin,3
+0,32,2,Jungle,Jarvan,11025,379,128,23,0.79,0,0,50,377,175,Phsical,Tank-Fighter,1
+0,29,4,Jungle,Viego,12150,458,110,23,0.9,0,0,59,773,200,Phsical,Assasin-Fighter,3
+1,24,5,Jungle,Sylas,9920,439,120,25,1.15,1,2,51,666,175,Magic,Mage-Assasin,3
+1,15,8,Jungle,Viego,6712,417,83,10,0.71,0,1,36,367,200,Phsical,Assasin-Fighter,3
+0,37,3,Jungle,Sylas,15723,418,196,38,1.03,2,3,61,912,175,Magic,Mage-Assasin,3
+1,33,3.14,Jungle,Sylas,13704,401,149,20,0.59,1,1,74,932,175,Magic,Mage-Assasin,3
+0,21,1.42,Jungle,Viego,8878,455,91,20,0.95,0,0,43,530,200,Phsical,Assasin-Fighter,3
+1,18,3.66,Support,Thresh,5625,287,29,33,1.69,0,1,56,246,450,Phsical,Support-Fighter,3
+0,28,0.57,Jungle,Sylas,7778,275,100,24,0.86,0,0,25,227,175,Magic,Mage-Assasin,3
+0,32,1.57,Jungle,Lee Sin,12619,379,162,23,0.7,1,2,39,353,125,Phsical,Assasin-Fighter,2
+0,29,1.33,Jungle,Viego,10334,365,144,16,0.59,0,1,34,340,200,Phsical,Assasin-Fighter,3
+1,29,11,Jungle,Viego,15897,558,147,14,0.52,0,1,57,697,200,Phsical,Assasin-Fighter,3
+1,37,1.875,Middle,Sylas,14401,475,173,26,0.75,1,1,48,603,175,Magic,Mage-Assasin,3
+1,33,3,Jungle,Viego,11926,367,133,45,1.38,1,2,44,496,200,Phsical,Assasin-Fighter,3
+0,26,0.5,Carry,Kaisa,8155,327,158,15,0.63,0,0,17,478,525,Phsical,Marksman,2
+1,24,9.5,Jungle,Viego,10576,476,107,13,0.61,0,2,32,619,200,Phsical,Assasin-Fighter,3
+1,28,5.25,Jungle,Viego,11538,451,101,29,1.15,0,3,57,583,200,Phsical,Assasin-Fighter,3
+1,27,9,Jungle,Viego,11778,471,141,19,0.8,0,2,65,542,200,Phsical,Assasin-Fighter,3
+1,33,7,Jungle,Sylas,15078,452,149,31,0.95,1,1,61,1023,175,Magic,Mage-Assasin,3
+0,20,0.6,Jungle,Ekko,5940,307,88,16,0.84,0,1,39,233,125,Magic,Assasin-Fighter,3
+0,33,2.2,Jungle,Ekko,12216,369,131,29,0.9,1,1,49,771,125,Magic,Assasin-Fighter,3
+1,33,2.44,Jungle,Viego,16516,479,145,18,0.54,1,0,31,789,200,Phsical,Assasin-Fighter,3
+1,35,257,Jungle,Sylas,14192,403,152,25,0.72,2,2,70,755,175,Magic,Mage-Assasin,3
+1,25,4,Jungle,Sylas,10020,442,120,22,0.92,0,2,28,653,175,Magic,Mage-Assasin,3
+1,31,3.5,Carry,Zeri,15749,508,194,25,0.82,1,4,19,934,500,Phsical,Marksman,2
+0,30,1.75,Middle,Annie,8616,291,126,5,0.17,0,2,13,253,625,Magic,Mage,1
+0,31,3.57,Middle,Annie,16134,517,185,22,0.714,0,0,29,1084,625,Magic,Mage,1
+1,27,5.4,Middle,Annie,17098,649,211,9,0.37,1,3,37,1375,625,Magic,Mage,1
+1,16,4,Middle,Annie,7401,468,110,5,0.36,0,0,11,535,625,Magic,Mage,1
+0,40,4.6,Middle,Annie,19229,470,208,38,0.94,0,0,45,1185,625,Magic,Mage,1
+1,37,3.33,Support,Nautilus,9844,267,40,83,2.25,1,3,76,372,175,Magic,Tank-Support,2
